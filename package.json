@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "Ademola Adegbuyi",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ooade/npm-publish-test"
+  },
   "release": {
     "branches": ["main"],
     "plugins": [
